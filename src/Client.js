@@ -56,7 +56,7 @@ class Client {
         } catch (err) {
           return reject(err);
         }
-
+        console.log(data)
         if (data.error === 'Player Not Found') return reject(new Error('User not found'));
         return resolve(new User(data));
       })();
