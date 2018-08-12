@@ -8,7 +8,7 @@ A simple, easy to use module for interacting with the [FortniteTracker](https://
 
 ## Setup and Installation
 ```
-$ npm i fortnite
+$ npm i https://github.com/Shana6/fortnite.git
 ```
 
 1. Signup at [FortniteTracker](https://fortnitetracker.com/)
